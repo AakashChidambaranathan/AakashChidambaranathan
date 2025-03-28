@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AakashChidambaranathan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashChidambaranathan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🧩 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aakash_C45?theme=nord&font=Noto%20Sans%20Tagalog&ext=heatmap)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
