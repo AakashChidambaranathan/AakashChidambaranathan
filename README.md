@@ -6,7 +6,7 @@ I am currently pursuing a degree in **Artificial Intelligence & Data Science at 
 My main passion lies in creating **modern, responsive, and user-friendly web applications**.  
 With strong skills in **React, Tailwind, and design principles**, I enjoy crafting clean, intuitive interfaces that bring ideas to life.  
 
-While **frontend and design** are my primary interests, I also explore **AI and Machine Learning projects**—such as **disease detection, IoT-driven solutions, and intelligent dashboards**.  
+While **design** are my primary interests, I also explore **AI and Machine Learning projects**—such as **disease detection, IoT-driven solutions, and intelligent dashboards**.  
 I believe in blending **creativity, technology, and teamwork** to deliver meaningful solutions.  
 
 ✨ **Portfolio**: [aakash-one.vercel.app](https://aakash-one.vercel.app/)  
