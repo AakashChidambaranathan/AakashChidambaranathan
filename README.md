@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I’m Aakash Chidambaranathan  
 
-🎨 Frontend Developer | UI/UX Designer | AI Enthusiast  
+🎨  UI/UX Designer | AI Enthusiast  
 I am currently pursuing a degree in **Artificial Intelligence & Data Science at KEC**.  
 My main passion lies in creating **modern, responsive, and user-friendly web applications**.  
 With strong skills in **React, Tailwind, and design principles**, I enjoy crafting clean, intuitive interfaces that bring ideas to life.  
